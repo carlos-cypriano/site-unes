@@ -3,7 +3,7 @@ Site estruturado apenas com HTML puro.
 
 Neste site é criado um site fictício para uma universidade fictícia, apenas para fins de conhecimento.
 
-Nele é usado uma abordagem não muito recomendada, mas apenas para mostrar as possibilidades de estruturar um site.
+Nele é usado uma abordagem não muito recomendada, mas apenas para demostrar as possibilidades de estruturar um site.
 
 É utilizado:
 
